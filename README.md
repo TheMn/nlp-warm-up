@@ -1,2 +1,3 @@
-# nlp-warm-up
-Just to get in shape
+# Natural Language Processing
+
+by National Research University Higher School of Economics
